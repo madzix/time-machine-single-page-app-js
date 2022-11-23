@@ -32,7 +32,6 @@ const router = async () => {
     }
 
     console.log(match.route.view);
-
 }
 
 document.addEventListener("DOMContentLoaded", () => {
